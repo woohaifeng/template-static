@@ -3179,9 +3179,9 @@ nav.page-tabs .page-tabs-content {
 .dropdown-menu-right {
   left: auto
 }
-
+/*-------------------------------调整iframe的高度--------------------------------*/
 #content-main {
-  height: calc(100% - 140px);
+  height: calc(100% - 105px);
   overflow: hidden
 }
 
